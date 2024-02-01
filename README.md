@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-## I'm a Software Engineer at Ford Motors
+## I'm a Software Engineer at Altimetrik
 
 - 👨‍💻 I’m currently working on Advance API Projects and GCP.
 - 📚 Learning everything about Frontend and Backend technologies 😅
