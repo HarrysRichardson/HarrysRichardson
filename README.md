@@ -4,9 +4,9 @@
 
 ## I'm a Software Engineer at Altimetrik
 
-- 👨‍💻 I’m currently working on Advance API Projects and GCP.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 I’m currently working on Microservice, Spring Boot and AWS Projects.
+- 📚 Learning DSA and Design Patterns. 😅
+- 💪🏼 Future Goals: keep learning in little daily - Never stop creating new ideas.
 
 ---
 
