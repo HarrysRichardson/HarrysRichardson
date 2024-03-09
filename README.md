@@ -6,7 +6,7 @@
 
 - 👨‍💻 I’m currently working on Microservice, Spring Boot and AWS Projects.
 - 📚 Learning DSA and Design Patterns. 😅
-- 💪🏼 Future Goals: keep learning in little daily - Never stop creating new ideas.
+- 💪🏼 Future Goals:  Learning new technologies - Never stop creating new ideas.
 
 ---
 
