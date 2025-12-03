@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harrys Richardson</h1>
-<h3 align="center">Software Engineer | Aspiring Data Engineer | Java • SQL • Spark</h3>
+<h3 align="center">Software Engineer | Data Engineer | Java • python • SQL • Spark</h3>
 
 ---
 
