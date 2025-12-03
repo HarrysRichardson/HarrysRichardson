@@ -40,7 +40,6 @@ My long-term goal is to become a **tech lead** who can build scalable data platf
 ## 📚 Currently Working On  
 - Building **3 production-ready Data Engineering pipelines**  
 - Solving **SQL & Spark interview problems**  
-- Preparing for DE roles targeting **45 LPA+**  
 - Creating a strong DE-focused GitHub portfolio  
 
 ---
